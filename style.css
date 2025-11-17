@@ -1,0 +1,75 @@
+
+body{
+    overflow-x: hidden;
+}
+
+.navbar{
+
+    width: 1120px;
+height: 43px;
+position: relative;
+top: 40px;
+left: 160px;
+justify-content: space-between;
+
+opacity: 1;
+
+
+}
+ .navbar .logo{
+        width: 116px;
+height: 25.721893310546875px;
+
+gap: 8px;
+position: relative;
+bottom: px;
+    }
+    .navbar .nav{
+       width: 568px;
+height: 11px;
+
+opacity: 1;
+gap: 40px;
+
+    }
+    .ul{
+        display: flex;
+        position: relative;
+        right: 310px;
+        bottom: 7px;
+        list-style-type: none;
+    gap: 20px;
+        
+    }
+    .button{
+        position: relative;
+        bottom: 90px;
+        left:  300px;
+    
+;
+        
+        
+    }
+    .Signin{
+        border: none;
+        background-color: white;
+        
+    }
+    .Easily{
+        margin: 200px;
+
+
+    }
+    .span{
+        color: #1572D3;
+
+    }
+    .car{
+        position: relative;
+        left: 550px;
+        bottom: 500px;
+    }
+    .img{
+        width: 200%;
+    }
+
